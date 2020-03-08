@@ -1,0 +1,7 @@
+﻿//saves the secret is user file system
+dotnet user-secrets set "ExternalServices:ProductApi:ApiKey" "SUPERSECRETKEY"
+
+//use list command to see the secret
+dotent user-secrets list
+
+righ click => manage usersecrets in visual studio
