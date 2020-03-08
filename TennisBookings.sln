@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TennisBookings.Web", "src\T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherService.Api", "src\WeatherService.Api\WeatherService.Api.csproj", "{8AC8E8E8-A3C2-4A10-BCA8-CD8065901DF0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrandedProducts.Api", "..\pluralsight\dotnet-core-aspnet-core-configuration-options\03\demos\After\src\BrandedProducts.Api\BrandedProducts.Api.csproj", "{DBF50BF1-90DC-4CFD-9FFC-3DE95D01001D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrandedProducts.Api", "src\BrandedProducts.Api\BrandedProducts.Api.csproj", "{DBF50BF1-90DC-4CFD-9FFC-3DE95D01001D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
